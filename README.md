@@ -2,7 +2,7 @@
  Site de filmes e series relacionadas ao universo Marvel baseado na interface da Netflix
 
 # Sobre
-Projeto desenvolvido com o objetivo de recriar o layout do site de streaming Netflix, usando como filmes e series o universo cinematográfico da Marvel.
+Projeto desenvolvido no curso da Digital Innovation One com o objetivo de recriar o layout do site de streaming Netflix, usando como filmes e series o universo cinematográfico da Marvel.
 
 # Imagens
 
