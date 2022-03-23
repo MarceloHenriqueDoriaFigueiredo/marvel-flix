@@ -19,4 +19,4 @@ Projeto desenvolvido com o objetivo de recriar o layout do site de streaming Net
 * JavaScript
 * Plugins JQuery
 
-Resultado final: 
+Resultado final: https://marcelohenriquedoriafigueiredo.github.io/marvel-flix/
