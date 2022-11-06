@@ -1,22 +1,40 @@
-# marvel-flix
- Site de filmes e series relacionadas ao universo Marvel baseado na interface da Netflix
+<h1 align="center"> marvel-flix </h1>
 
-# Sobre
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+<h2>Desktop:</h2>
+  <img alt="marvel-flix" src=".github/desktop.png" width="100%">
+  
+ <h2>Mobile:</h2>
+  <img alt="marvel-flix" src=".github/mobile.png" width="30%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- Plugins JQuery
+
+## 💻 Projeto
+
 Projeto desenvolvido no curso da Digital Innovation One com o objetivo de recriar o layout do site de streaming Netflix, usando como filmes e series o universo cinematográfico da Marvel.
 
-# Versão para Desktop:
+## :memo: Licença
 
-![image](https://user-images.githubusercontent.com/68343463/159812192-11dc028c-08dd-4f6a-9331-1bedec9d4d9b.png)
+Esse projeto está sob a licença MIT.
 
-# Versão para Mobile:
-
-![image](https://user-images.githubusercontent.com/68343463/159812446-be7ea4c0-eb94-4871-b977-627ea7b09dd9.png)
-
-# Tecnologias utilizadas
-
-* HTML
-* CSS
-* JavaScript
-* Plugins JQuery
-
-Resultado final: https://marcelohenriquedoriafigueiredo.github.io/marvel-flix/
+---
