@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 :root{
     --vermelho: #E50914;
     --preto: #141414;
@@ -21,8 +22,10 @@ header .container{
 header .logo{
     margin-left: 5px;
     color: var(--vermelho);
-    font-family: 'Arial Black', Times;
+    font-family: 'Roboto', sans-serif;
     font-size:40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 header nav a{
     text-decoration: none;
@@ -36,7 +39,8 @@ header nav a:hover{
     font-size: 16px;
     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("../imagens/imagem\ de\ fundo.jpg");
     height: 400px;
-    background-size:cover;
+    background-size: cover;
+    background-repeat: no-repeat;
     object-position: center;
     display: flex;
     flex-direction: column;
